@@ -1,6 +1,7 @@
 ## Network Attack Scripts for Windows, Linux, and MacOS
-Scripts for simulating various network attacks using shell/python
-Some functionalities from .sh scripts that are often available on Linux and MacOS aren't available on Windows, so there are alternative python scripts
+Scripts for simulating various network attacks using shell/python for all platforms, including Windows, Linux, MacOS
+
+The traffic generated simulates normal, non-malicious network activity - can be used for dataset creation to find anomalies in malicious vs normal network traffic
 
 # Generating Normal Network traffic
 
