@@ -11,7 +11,7 @@ Wget comes with most linux machines, but you might need to install it for MacOs 
 
 1. clone the repository:
 
-git clone https://github.com/williamnamgyal/network-attack-scripts
+git clone https://github.com/williamnamgyal/simulate-network-traffic
 
 2. change directory:
 
@@ -31,7 +31,7 @@ If you do not have Git bash, you won't be able to run .sh files on windows, so I
 
 1. clone the repository:
 
-git clone https://github.com/williamnamgyal/network-attack-scripts
+git clone https://github.com/williamnamgyal/simulate-network-traffic
 
 2. change directory:
 
